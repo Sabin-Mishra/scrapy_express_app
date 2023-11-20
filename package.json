@@ -1,0 +1,12 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Your app description",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^latest_version"
+  }
+}
